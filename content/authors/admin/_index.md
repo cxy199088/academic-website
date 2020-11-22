@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xinyu Cui
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Finance & Teaching Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Manchester
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Asset Pricing, Market Anomalies, Hedge Funds, Institutional Investors, Portfolio Management.
 
 interests:
 - Artificial Intelligence
