@@ -23,15 +23,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Finance
+    institution: The University of Manchester
+    year: 2016-2020 (Expected)
+  - course: MSc in Finance
+    institution: University of Leicester
+    year: 2014-2015
+  - course: Bachelor of Laws
+    institution: Southwestern University of Finance and Economics
+    year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
