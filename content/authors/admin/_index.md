@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research focuses broadly on the trading behavior of institutional investors, including mutual funds, hedge funds, and their impact on financial market.
+About Me: My current research focuses broadly on the trading behavior of institutional investors, including mutual funds, hedge funds, and their impact on financial market.
 
 interests:
 - Asset Pricing
@@ -42,21 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
+  link: '/#contact'  # For a direct email link, use "mailto:xinyu.cui@manchester.ac.uk".
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ # Link to a PDF of your resume/CV from the About widget.
+ # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,5 +63,5 @@ user_groups:
 - Visitors
 ---
 
-Xinyu Cui is a PhD Candidate in Finance and Teaching Associate at The University of Manchester. His research interests include Asset Pricing, Market Anomalies, Hedge Funds, Institutional Investors, Portfolio Management.
+Xinyu Cui is a PhD Candidate in Finance and Teaching Associate at The University of Manchester. His research interests include Asset Pricing, Market Anomalies, Hedge Funds, Institutional Investors, and Portfolio Management.
 
