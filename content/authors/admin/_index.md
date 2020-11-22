@@ -14,12 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Asset Pricing, Market Anomalies, Hedge Funds, Institutional Investors, Portfolio Management.
+bio: My current research focuses broadly on the trading behavior of institutional investors, including mutual funds, hedge funds, and their impact on financial market.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Asset Pricing
+- Hedge Funds
+- Market Anomalies
+- Institutional Investors
+- Portfolio Management
 
 education:
   courses:
