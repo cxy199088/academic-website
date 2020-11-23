@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Teaching"
-  url = "#featured"
+  url = "#teaching"
   weight = 20
   
 [[main]]
   name = "Media Coverage"
-  url = "#featured"
+  url = "#media"
   weight = 30
 
 [[main]]
