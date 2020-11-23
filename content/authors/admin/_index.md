@@ -59,10 +59,10 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# - Visitors
+# ---
 
 Xinyu Cui is a PhD Candidate in Finance and Teaching Associate at The University of Manchester. His research interests include Asset Pricing, Market Anomalies, Hedge Funds, Institutional Investors, and Portfolio Management.
 
