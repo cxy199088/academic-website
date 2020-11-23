@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research focuses broadly on the trading behavior of institutional investors, including mutual funds, hedge funds, and their impact on financial market.
+ABout Me: My current research focuses broadly on the trading behavior of institutional investors, including mutual funds, hedge funds, and their impact on financial market.
 
 interests:
 - Asset Pricing
