@@ -17,7 +17,7 @@ organizations:
 bio: My current research focuses broadly on the trading behavior of institutional investors, including mutual funds, hedge funds, and their impact on financial market.
 
 interests:
-- Asset Pricing
+- Empirical Asset Pricing
 - Hedge Funds
 - Market Anomalies
 - Institutional Investors
@@ -64,5 +64,7 @@ highlight_name: false
 # - Visitors
 ---
 
-Xinyu Cui is a PhD Candidate in Finance and Teaching Associate at The University of Manchester. His research interests include Asset Pricing, Market Anomalies, Hedge Funds, Institutional Investors, and Portfolio Management.
+I am a PhD Candidate in Finance and Teaching Associate at The University of Manchester. My current research focuses broadly on the trading behavior of institutional investors, including mutual funds, hedge funds, and their impact on financial market. I also assists various courses, including Cross Sectional Econometrics, Portfolio Investment, Financial Engineering, Financial Decision Making, etc.
+
+I am on the 2020-2021 job market and will be available for interviews during the next few months.
 
