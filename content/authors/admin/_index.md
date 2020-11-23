@@ -62,7 +62,7 @@ highlight_name: false
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 
 Xinyu Cui is a PhD Candidate in Finance and Teaching Associate at The University of Manchester. His research interests include Asset Pricing, Market Anomalies, Hedge Funds, Institutional Investors, and Portfolio Management.
 
